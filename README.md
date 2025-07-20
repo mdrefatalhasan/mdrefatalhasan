@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **https://t.me/refatalhasankaif**
 
-- 😆 **AI can't replace developers — it still doesn't know why your CSS is broken either**
+- 😆 **AI can’t replace devs — it still can’t fix your broken CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
